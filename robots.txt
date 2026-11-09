@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /account/
+Disallow: /ajax/
+Disallow: /includes/
+Disallow: /install/
+Disallow: /install.php
+
+Sitemap: /sitemap.php
